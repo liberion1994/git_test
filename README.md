@@ -2,5 +2,3 @@
 learn git
 
 edit1
-
-edit2
