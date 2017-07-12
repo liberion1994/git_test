@@ -14,3 +14,7 @@ feat2
 new feat
 
 asd
+
+master feat
+
+master feat2
